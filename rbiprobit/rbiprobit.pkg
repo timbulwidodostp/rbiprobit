@@ -1,5 +1,11 @@
-d 'DEA': Data envelopment analysis
+d 'rbiprobit': Recursive bivariate probit regressions (regression) Use rbiprobit With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f rbiprobit.ado
+f rbiprobit.sthlp
+f rbiprobit_lf1.ado
+f rbiprobit_margdec.ado
+f rbiprobit_margdec.sthlp
+f rbiprobit_p.ado
+f rbiprobit_postestimation.sthlp
+f rbiprobit_tmeffects.ado
+f rbiprobit_tmeffects.sthlp
