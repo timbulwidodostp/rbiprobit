@@ -1,6 +1,8 @@
 # rbiprobit
 Recursive bivariate probit regressions (regression) Use rbiprobit With STATA 18
 
+https://www.youtube.com/watch?v=HWe5HWhatXs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
